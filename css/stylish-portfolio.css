@@ -104,6 +104,9 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  font-family: "Carter One", cursive;
+  color: #bf5b92;
+  text-shadow: 3px 3px 0 #e8cc5c, 5px 5px 0 #17a2b8;  
 }
 
 @media (min-width: 992px) {
