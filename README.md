@@ -77,3 +77,5 @@ Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https:/
 
 sass scss/stylish-portfolio.scss css/stylish-portfolio.min.css --style compressed
 
+sass scss/stylish-portfolio.scss css/stylish-portfolio.min.css --style compressed --load-path=scss --watch
+
