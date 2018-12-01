@@ -38,6 +38,8 @@ a {
 .btn {
   box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
   font-weight: 700;
+  border-radius: 1em;
+  border-width: 3px;
 }
 
 .bg-primary {
@@ -50,4 +52,8 @@ a {
 
 .text-secondary {
   color: $secondary !important;
+}
+
+p {
+  margin-bottom: 1.5em;
 }
